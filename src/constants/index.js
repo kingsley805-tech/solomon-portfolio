@@ -14,12 +14,8 @@ import {
   mongodb,
   git,
   logo,
-  figma,
-  docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  
+  
   carrent,
   jobit,
   tripguide,
@@ -120,14 +116,7 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
-    name: "figma",
-    icon: figma,
-  },
-  {
-    name: "docker",
-    icon: docker,
-  },
+ 
 ];
 
 const experiences = [
